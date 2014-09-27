@@ -1,0 +1,17 @@
+APP name - Friendy
+
+UI - any available Template
+
+MVC - AngularJS
+
+IDE - Eclipse / InetelliJ
+
+AppServer - Google Cloud Appengine
+
+Database - Google Datastore
+
+Middle Layer  - PHP
+
+Data Handlers - JSON
+
+
